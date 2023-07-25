@@ -64,3 +64,40 @@ header {
   width: 54px;
   cursor: pointer;
 }
+
+section {
+  background-color: #f3f5f7;
+}
+
+.news-content {
+  padding: 50px 0;
+}
+
+.card {
+  background-color: #fff;
+  margin: 40px 0;
+  border-radius: 10px;
+}
+
+.card-date {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  color: #717171;
+  font-size: 16px;
+}
+
+.card-desc {
+  padding: 10px 25px 30px 25px;
+}
+
+.card-desc h3 {
+  color: #1a202c;
+  font-size: 26px;
+  padding-bottom: 10px;
+}
+
+.card-desc p {
+  color: #717171;
+  font-size: 18px;
+}
